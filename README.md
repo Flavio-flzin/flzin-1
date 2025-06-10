@@ -25,13 +25,20 @@
     <!--DIV 01-->
 
     <div class="container">
-        <img src="/img/edfisia.png">
+        <img src="/img/eu.jpg.webp">
         
         <div class="div-com-texto">
-            <p>Este é o texto que quero do lado da div.</p>
-        </div>
-
-        <div class="div-extra">
-            <p>Esta é outra div.</p>
+            <p id="p1">A Educação Física tem suas origens na Pré-História, quando as atividades físicas eram essenciais para a sobrevivência. Na Antiguidade, a Educação Física foi desenvolvida com fins militares, terapêuticos e higiênicos na China, Índia, Japão e Grécia, onde surgiram os Jogos Olímpicos.</p>
         </div>
     </div>
+
+     <div class="container">
+        <img src="/img/eu.jpg.webp">
+        
+        <div class="div-com-texto">
+            <p id="p1">A Educação Física tem suas origens na Pré-História, quando as atividades físicas eram essenciais para a sobrevivência. Na Antiguidade, a Educação Física foi desenvolvida com fins militares, terapêuticos e higiênicos na China, Índia, Japão e Grécia, onde surgiram os Jogos Olímpicos.</p>
+        </div>
+    </div>
+</body>
+    
+</html>
