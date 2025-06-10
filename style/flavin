@@ -46,13 +46,14 @@ nav a:hover {
 .div-com-texto {
     width: 50%; /* Define a largura da div */
     padding: 10px; /* Adiciona um espaço interno */
+    margin-top:200px;
 }
 
 .div-extra {
-    width: 50%; /* Define a largura da outra div */
+    width: 50px; /* Define a largura da outra div */
     padding: 10px; /* Adiciona um espaço interno */
 }
 img{
-    border-style: solid;
-    margin: 30px;
+    width: 500px;
+    
 }
